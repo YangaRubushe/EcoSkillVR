@@ -4,7 +4,19 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/TDG Storage Solutions/Scenes/Scene 0.unity
+    guid: 86765ceb117a0c247998696385c179a6
+  - enabled: 1
+    path: Assets/TDG Storage Solutions/Scenes/Scene 1 (Training).unity
+    guid: 2d4d181b8e7363346b02977ff0fa8e0c
+  - enabled: 1
+    path: Assets/TDG Storage Solutions/Scenes/Scene 2 (Quiz).unity
+    guid: 856cb093f29ad9144b64526c658791df
+  - enabled: 1
+    path: Assets/TDG Storage Solutions/Scenes/Scene 3 (Equipments).unity
+    guid: a756425ce18e8da418fed15e2e470ca0
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 40907804e6dc29845935c4ce1616c0f6, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a1cd03681f736aa418f049f07141c502, type: 2}
