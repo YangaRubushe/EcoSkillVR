@@ -2,7 +2,7 @@
 **EcoSkillVR** is an immersive Virtual Reality platform designed to train users in eco-friendly technology skills. This repository contains **start-up code only**. The full project is not included here. For access to the complete application, please reach out for more information.
 ---
 ## Demo Video
-Watch a short demo of EcoSkillVR [here](https://drive.google.com/file/d/1LZltTayM2WzNVZ8N4lKhlHEatSCGo9fJ/view).  
+Watch a short demo of EcoSkillVR [here](https://6dbrw9orc5.ufs.sh/f/x2NkJgHTD8iygnWSUEoRJ0ZVIHywkldCzQuNoDFTsOrxa2W6).  
 ---
 ## Features (Preview)
 - **PPE Room** – Explore and select proper personal protective equipment.  
