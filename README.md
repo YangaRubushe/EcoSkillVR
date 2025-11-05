@@ -13,7 +13,7 @@ Watch a short demo of EcoSkillVR [here](https://drive.google.com/file/d/1LZltTay
 ---
 ## Media
 ### App Logo
-![EcoSkillVR Logo](./assets/logo.png)
+![EcoSkillVR Logo](https://github.com/user-attachments/assets/d23d940d-6c77-43d9-ad08-e5a4f4b5c49a)
 ### Screenshots
 **PPE Room, Assembly Room & Equipment Room:**  
 ![PPE Room](https://github.com/user-attachments/assets/c8cae791-e1f7-4f51-a64c-97d733c7c77f)  
