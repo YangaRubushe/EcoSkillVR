@@ -26,20 +26,14 @@ Watch a short demo of EcoSkillVR [here](https://drive.google.com/file/d/1LZltTay
 ![EcoSkillVR Logo](./assets/logo.png)
 
 ### Screenshots
-**PPE Room:**  
-![PPE Room](./assets/ppe_room.png)  
-
-**Assembly Room:**  
-![Assembly Room](./assets/assembly_room.png)  
-
-**Equipment Room:**  
-![Equipment Room](./assets/equipment_room.png)  
+**PPE Room, Assembly Room & Equipment Room:**  
+![PPE Room](<img width="433" height="316" alt="image" src="https://github.com/user-attachments/assets/c8cae791-e1f7-4f51-a64c-97d733c7c77f" />)  
 
 **Battery Pack:**  
-![Battery Pack](./assets/battery_pack.png)  
+![Battery Pack](<img width="433" height="208" alt="image" src="https://github.com/user-attachments/assets/b4a62a3a-dd30-4d1e-b276-c89339da6aca" />)  
 
 **Quiz:**  
-![Quiz Module](./assets/quiz.png)
+![Quiz Module](<img width="433" height="331" alt="image" src="https://github.com/user-attachments/assets/e74c3194-0a4f-432d-a18d-60e449c6e2aa" />)
 
 ---
 
