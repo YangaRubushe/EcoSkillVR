@@ -25,11 +25,11 @@ Watch a short demo of EcoSkillVR [here](https://drive.google.com/file/d/1LZltTay
 ![Quiz Module](https://github.com/user-attachments/assets/e74c3194-0a4f-432d-a18d-60e449c6e2aa)
 ---
 ## Getting Started
-This code is intended as a **starting point** for EcoSkillVR. To run the VR scenes and interact with the application, Unity 2021+ is recommended. Make sure to import required assets and packages.
+This code is intended as a **starting point** for EcoSkillVR. To run the VR scenes and interact with the application, Unity 2022.3.60f1 is recommended. Make sure to import required assets and packages.
 ---
 ## Contact
 For more information about the full project or collaboration opportunities, please reach out at:  
-**Email:** [your-email@example.com]  
+**Email:** [Yanga Rubushe](https://my-portfolio-three-weld-98.vercel.app/)
 **LinkedIn:** [Yanga Rubushe](https://www.linkedin.com/in/yanga-rubushe-2ba414273)
 ---
 *Note: This repository is for educational and development purposes only.*
