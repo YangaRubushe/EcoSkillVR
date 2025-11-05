@@ -6,7 +6,7 @@
 
 ## Demo Video
 
-Watch a short demo of EcoSkillVR [here](https://your-demo-link.com).  
+Watch a short demo of EcoSkillVR [here](https://drive.google.com/file/d/1LZltTayM2WzNVZ8N4lKhlHEatSCGo9fJ/view).  
 
 ---
 
@@ -53,7 +53,7 @@ This code is intended as a **starting point** for EcoSkillVR. To run the VR scen
 
 For more information about the full project or collaboration opportunities, please reach out at:  
 **Email:** [your-email@example.com]  
-**LinkedIn:** [your-linkedin-profile]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/yanga-rubushe-2ba414273))
+**LinkedIn:** [your-linkedin-profile](https://www.linkedin.com/in/yanga-rubushe-2ba414273)
 
 ---
 
